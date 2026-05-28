@@ -4,6 +4,10 @@ A Python 3.10+ Streamlit chatbot that helps apprentices on digital
 apprenticeship programmes understand their Knowledge, Skills and Behaviours
 (KSBs) from Skills England standards — available any time, in plain English.
 
+## 🎥 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/t2GH9TDuAjc/maxresdefault.jpg)](https://youtu.be/t2GH9TDuAjc)
+
 ---
 
 ## Purpose
