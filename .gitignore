@@ -1,0 +1,27 @@
+# Environment — never commit API keys
+.env
+
+# Generated data — large files, not source code
+data/raw/
+data/processed/
+data/chroma_db/
+data/qa_dataset.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Playwright browser binaries
+.playwright/
+
+# OS
+.DS_Store
+Thumbs.db
